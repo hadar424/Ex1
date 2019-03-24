@@ -1,0 +1,6 @@
+C:\הדר\שנה ב\תכנות מתקדם2\projects\Ex1\Ex1\obj\Debug\Ex1.csprojResolveAssemblyReference.cache
+C:\הדר\שנה ב\תכנות מתקדם2\projects\Ex1\Ex1\obj\Debug\Ex1.csproj.CoreCompileInputs.cache
+C:\הדר\שנה ב\תכנות מתקדם2\projects\Ex1\Ex1\bin\Debug\Ex1.exe
+C:\הדר\שנה ב\תכנות מתקדם2\projects\Ex1\Ex1\bin\Debug\Ex1.pdb
+C:\הדר\שנה ב\תכנות מתקדם2\projects\Ex1\Ex1\obj\Debug\Ex1.exe
+C:\הדר\שנה ב\תכנות מתקדם2\projects\Ex1\Ex1\obj\Debug\Ex1.pdb
